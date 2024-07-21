@@ -9,4 +9,7 @@ To get started, clone the repository and install the necessary dependencies:
 ```bash
 git clone https://github.com/your-username/data-table-component.git
 cd frontend
+
+
 npm install
+npm install simple-datatables

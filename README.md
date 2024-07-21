@@ -13,6 +13,5 @@ git clone https://github.com/your-username/data-table-component.git
 
 cd frontend
 
-
 npm install
 npm install simple-datatables
